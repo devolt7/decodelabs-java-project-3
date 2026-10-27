@@ -1,0 +1,51 @@
+==========================================
+              JAVA ATM SYSTEM
+==========================================
+Demo account: XXXXXX9012
+For this practice project, use demo PIN: 1234
+Enter your 4-digit PIN: 1234
+
+Welcome, Devkant Prajapati!
+
+--------------- ATM MENU ----------------
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Transaction History
+5. Exit
+------------------------------------------
+Choose an option (1-5): 1
+Available balance: Rs. 5000.00
+
+--------------- ATM MENU ----------------
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Transaction History
+5. Exit
+------------------------------------------
+Choose an option (1-5): 2
+Enter deposit amount (Rs.): 1500
+Deposit successful. New balance: Rs. 6500.00
+
+--------------- ATM MENU ----------------
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Transaction History
+5. Exit
+------------------------------------------
+Choose an option (1-5): 3
+Enter withdrawal amount (Rs.): 7000
+Transaction declined: insufficient balance.
+
+--------------- ATM MENU ----------------
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Transaction History
+5. Exit
+------------------------------------------
+Choose an option (1-5): 5
+
+Thank you for using the ATM. Please take your card.
