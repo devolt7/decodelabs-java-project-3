@@ -59,9 +59,9 @@ The initial demo balance is Rs. 5,000.00. You can change the demo account detail
 
 ```text
 ==========================================
-              JAVA ATM SYSTEM
+              JAVA ATM SYSTEM             
 ==========================================
-Demo account: XXXXXX9012
+Demo account: XXXXXX2724
 For this practice project, use demo PIN: 1234
 Enter your 4-digit PIN: 1234
 
@@ -85,8 +85,8 @@ Available balance: Rs. 5000.00
 5. Exit
 ------------------------------------------
 Choose an option (1-5): 2
-Enter deposit amount (Rs.): 1500
-Deposit successful. New balance: Rs. 6500.00
+Enter deposit amount (Rs.): 50000
+Deposit successful. New balance: Rs. 55000.00
 
 --------------- ATM MENU ----------------
 1. Check Balance
@@ -95,9 +95,34 @@ Deposit successful. New balance: Rs. 6500.00
 4. Transaction History
 5. Exit
 ------------------------------------------
-Choose an option (1-5): 3
-Enter withdrawal amount (Rs.): 7000
-Transaction declined: insufficient balance.
+Choose an option (1-5): 1
+Available balance: Rs. 55000.00
+
+--------------- ATM MENU ----------------
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Transaction History
+5. Exit
+------------------------------------------
+Choose an option (1-5): 2
+Enter deposit amount (Rs.): 5000
+Deposit successful. New balance: Rs. 60000.00
+
+--------------- ATM MENU ----------------
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Transaction History
+5. Exit
+------------------------------------------
+Choose an option (1-5): 4
+
+----------- TRANSACTION HISTORY ----------
+1. Account opened with balance: Rs. 5000.00
+2. Deposit: +Rs. 50000.00 | Balance: Rs. 55000.00
+3. Deposit: +Rs. 5000.00 | Balance: Rs. 60000.00
+------------------------------------------
 
 --------------- ATM MENU ----------------
 1. Check Balance
